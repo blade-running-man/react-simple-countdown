@@ -31,7 +31,7 @@
     "storybook-readme": "^5.0.8",
     "webpack": "^4.42.0",
     "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.10.3"
+    "webpack-dev-server": "^5.2.2"
   },
   "main": "",
   "repository": "blade_running_man/react-simple-countdown",
